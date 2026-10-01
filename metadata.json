@@ -1,0 +1,9 @@
+{
+  "name": "AI Background Remover - Tách Nền Ảnh Thông Minh",
+  "description": "Ứng dụng xóa nền ảnh bằng AI với độ phân giải cao, hỗ trợ chỉnh sửa nhanh, thay phông nền và xử lý hàng loạt xuất file PNG trong suốt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
